@@ -86,8 +86,7 @@ public class Principal {
                     break;
                 default:
                     System.out.println("Numero no valido");
-            }
-            
+            }  
             if(num == 0){
                 break;
             }else if(Tanque.tanquesDestruidos() == 0){
